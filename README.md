@@ -8,7 +8,7 @@ I'm a Junior Software Engineer and Content Creator. I'm passionate about sharing
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm an ex student of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and React Native.
+- 🌱 I currently write JavaScript/Typescript, Nextjs, Reactjs, and React Native.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing aubreyjosh11@gmail.com.
