@@ -10,7 +10,7 @@ I'm a Software Engineer and Content Creator. I'm passionate about sharing knowle
 - 💡 Fun fact: I'm an ex-student of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I currently write JavaScript/Typescript, Nextjs, Reactjs, and React Native.
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Junior level).
+- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer.
 - 📫 You can contact me by emailing aubreyjosh11@gmail.com.
 
 ---
